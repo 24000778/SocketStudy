@@ -1,5 +1,10 @@
 # Ex.No:1a  			Study of Socket Programming
 
+NAME: G.SINDHU PRIYA REDDY
+
+
+REG NO:212224040319
+
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
